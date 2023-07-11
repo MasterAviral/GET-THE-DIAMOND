@@ -1,0 +1,2 @@
+# GET-THE-DIAMOND
+vsc
